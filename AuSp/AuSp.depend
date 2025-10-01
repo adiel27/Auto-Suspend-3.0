@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1759246526 source:c:\users\adieru\documents\ausp\ausp\main.c
+	"process_utils.h"
+	"window_utils.h"
+	"cpu_utils.h"
+	"log_utils.h"
+
+1759210169 c:\users\adieru\documents\ausp\ausp\process_utils.h
+	<windows.h>
+
+1759246249 c:\users\adieru\documents\ausp\ausp\window_utils.h
+	<windows.h>
+
+1759246323 c:\users\adieru\documents\ausp\ausp\cpu_utils.h
+	<windows.h>
+
+1759246443 c:\users\adieru\documents\ausp\ausp\log_utils.h
+	<windows.h>
+
+1759246352 source:c:\users\adieru\documents\ausp\ausp\cpu_utils.c
+	"cpu_utils.h"
+	<psapi.h>
+	<stdio.h>
+
+1759246464 source:c:\users\adieru\documents\ausp\ausp\log_utils.c
+	"log_utils.h"
+	<stdio.h>
+	<time.h>
+
+1759245667 source:c:\users\adieru\documents\ausp\ausp\process_utils.c
+	"process_utils.h"
+	<tlhelp32.h>
+	<stdio.h>
+	<string.h>
+	"window_utils.h"
+	"cpu_utils.h"
+	"log_utils.h"
+
+1759246247 source:c:\users\adieru\documents\ausp\ausp\window_utils.c
+	"window_utils.h"
+
